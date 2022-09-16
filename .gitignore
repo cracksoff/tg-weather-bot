@@ -1,0 +1,10 @@
+node_modules
+.env
+.vscode
+.DS_Store
+.gitlab
+.dockerignore
+.eslintrc.cjs
+.gitlab-ci.yml
+Dockerfile
+src/token.json
